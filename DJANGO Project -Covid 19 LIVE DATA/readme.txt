@@ -1,0 +1,1 @@
+Please run this folder as project using manage.py to run server. This is a basic Djano based python covid 19 live data app. In this project live data is retrieved from a website using API and transferred to Django Project using JSON script and selected data is transferred to HTML Templates for display.
